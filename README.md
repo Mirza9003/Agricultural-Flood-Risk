@@ -13,10 +13,10 @@ https://phduiowa.users.earthengine.app/view/machine-learning-based-flood-map-for
 
 ## 🎥 Live Application Demo
 
-<video width="900" controls>
-  <source src="FSM_MMTM_IA_Final.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+▶️ **Click to watch the demo video:**  
+[FSM_MMTM_IA_Final.mp4](FSM_MMTM_IA_Final.mp4)
+
+
 
 ---
 
@@ -53,5 +53,4 @@ Email: mtasnimmukarram@uiowa.edu
 ## 📜 License
 
 MIT License
-# Flood-Hazard-Mapping-
-GEE App: https://phduiowa.users.earthengine.app/view/machine-learning-based-flood-map-for-iowa 
+
