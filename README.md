@@ -50,6 +50,34 @@ Email: mtasnimmukarram@uiowa.edu
 
 ---
 
+
+## 🤝 Collaborators & Scientific Advisors
+
+**Mirza Waleed**  
+Department of Geography  
+Hong Kong Baptist University  
+Hong Kong SAR, China  
+Email: waleed@life.hkbu.edu.hk  
+
+---
+
+**Dr. Marc Linderman**  
+School of Earth, Environment and Sustainability  
+University of Iowa  
+Iowa City, IA, USA  
+Email: marc-linderman@uiowa.edu  
+
+---
+
+**Dr. Ibrahim Demir**  
+Michael A. Fitts Presidential Chair in Environmental Informatics and Artificial Intelligence
+Professor, River-Coastal Science and Engineering
+Tulane University, New Orleans, LA, USA  
+Director, ByWater Institute  
+Email: idemir@tulane.edu  
+
+---
+
 ## 📜 License
 
 MIT License
