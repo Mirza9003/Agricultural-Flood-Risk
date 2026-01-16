@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+title: "Flood Susceptibility Mapping in Iowa using GeoAI"
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: Mukarram
+    given-names: Mirza Md Tasnim
+    affiliation: School of Earth, Environment and Sustainability, University of Iowa, USA
+    email: mtasnimmukarram@uiowa.edu
+version: "1.0.0"
+date-released: 2026-01-16
+url: "https://github.com/Mirza9003/Flood-Hazard-Mapping-"
+keywords:
+  - Flood susceptibility
+  - GeoAI
+  - Machine learning
+  - Remote sensing
+  - Google Earth Engine
+license: MIT
