@@ -82,3 +82,25 @@ Email: idemir@tulane.edu
 
 MIT License
 
+---
+
+## 📖 How to Cite
+
+If you use this repository, code, or derived outputs in academic publications, please cite:
+
+**Mukarram, M. M. T. (2026).**  
+*Flood Susceptibility Mapping in Iowa using GeoAI.*  
+GitHub Repository: https://github.com/Mirza9003/Flood-Hazard-Mapping-
+
+### BibTeX
+
+```bibtex
+@software{Mukarram_FloodGeoAI_2026,
+  author  = {Mukarram, Mirza Md Tasnim},
+  title   = {Flood Susceptibility Mapping in Iowa using GeoAI},
+  year    = {2026},
+  url     = {https://github.com/Mirza9003/Flood-Hazard-Mapping-},
+  note    = {Google Earth Engine application and machine learning workflows}
+}
+
+
