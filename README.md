@@ -62,7 +62,7 @@ Email: waleed@life.hkbu.edu.hk
 ---
 **Quazi Umme Rukiya**  
 School of Earth, Environment and Sustainability  
-University of Iowa, USA
+University of Iowa, USA 
 Email: qrukiya@uiowa.edu 
 
 ---
