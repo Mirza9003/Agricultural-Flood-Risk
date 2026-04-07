@@ -43,9 +43,9 @@ Google Earth Engine application for visualization and decision support.
 ## 👤 Author
 
 **Mirza Md Tasnim Mukarram**  
-PhD Researcher  
+Informatics, Department of Computer Science
 School of Earth, Environment and Sustainability  
-University of Iowa  
+University of Iowa, USA  
 Email: mtasnimmukarram@uiowa.edu
 
 ---
@@ -58,6 +58,12 @@ Department of Geography
 Hong Kong Baptist University  
 Hong Kong SAR, China  
 Email: waleed@life.hkbu.edu.hk  
+
+---
+**Quazi Umme Rukiya**  
+School of Earth, Environment and Sustainability  
+University of Iowa, USA
+Email: qrukiya@uiowa.edu 
 
 ---
 
