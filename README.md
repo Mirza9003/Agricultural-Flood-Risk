@@ -43,7 +43,7 @@ Google Earth Engine application for visualization and decision support.
 ## 👤 Author
 
 **Mirza Md Tasnim Mukarram**  
-Informatics, Department of Computer Science
+Informatics, Department of Computer Science  
 School of Earth, Environment and Sustainability  
 University of Iowa, USA  
 Email: mtasnimmukarram@uiowa.edu
