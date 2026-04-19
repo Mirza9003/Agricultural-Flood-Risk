@@ -1,6 +1,4 @@
-# 🌊 Prioritizing Agricultural Flood Mitigation: A GeoAI-Driven
-Assessment of Susceptibility, Crop Exposure, and
-Socioeconomic Vulnerability
+# 🌊 Prioritizing Agricultural Flood Mitigation: A GeoAI-Driven Assessment of Susceptibility, Crop Exposure, and Socioeconomic Vulnerability
 
 🔗 **Live GEE App:**  
 https://phduiowa.users.earthengine.app/view/machine-learning-based-flood-map-for-iowa
