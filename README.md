@@ -16,8 +16,6 @@ https://phduiowa.users.earthengine.app/view/machine-learning-based-flood-map-for
 ▶️ **Click to watch the demo video:**  
 [FSM_MMTM_IA_Final.mp4](FSM_MMTM_IA_Final.mp4)
 
-
-
 ---
 
 ## 📌 Overview
@@ -40,6 +38,29 @@ Google Earth Engine application for visualization and decision support.
 
 ---
 
+## 🗂️ Zenodo Data Archive
+
+The main flood susceptibility dataset associated with this project is archived on Zenodo for long-term access and reproducibility.
+
+**Zenodo record:**  
+[https://doi.org/10.5281/zenodo.19655650](https://doi.org/10.5281/zenodo.19655650)
+
+**Dataset title:**  
+*Prioritizing Agricultural Flood Mitigation: A GeoAI-Driven Assessment of Susceptibility, Crop Exposure, and Socioeconomic Vulnerability*
+
+**Archived file(s):**
+- `HGB_fsm (1).tif`
+
+**Version-specific DOI:**  
+`10.5281/zenodo.19655650`
+
+**Concept DOI (all versions):**  
+`10.5281/zenodo.19655649`
+
+Please use the **version-specific DOI** when citing this exact archived release, and the **concept DOI** when referring to the dataset across all versions.
+
+---
+
 ## 👤 Author
 
 **Mirza Md Tasnim Mukarram**  
@@ -50,7 +71,6 @@ Email: mtasnimmukarram@uiowa.edu
 
 ---
 
-
 ## 🤝 Collaborators & Scientific Advisors
 
 **Mirza Waleed**  
@@ -60,9 +80,10 @@ Hong Kong SAR, China
 Email: waleed@life.hkbu.edu.hk  
 
 ---
+
 **Quazi Umme Rukiya**  
 School of Earth, Environment and Sustainability  
-University of Iowa, USA 
+University of Iowa, USA  
 Email: qrukiya@uiowa.edu 
 
 ---
@@ -76,8 +97,8 @@ Email: marc-linderman@uiowa.edu
 ---
 
 **Dr. Ibrahim Demir**  
-Michael A. Fitts Presidential Chair in Environmental Informatics and Artificial Intelligence
-Professor, River-Coastal Science and Engineering
+Michael A. Fitts Presidential Chair in Environmental Informatics and Artificial Intelligence  
+Professor, River-Coastal Science and Engineering  
 Tulane University, New Orleans, LA, USA  
 Director, ByWater Institute  
 Email: idemir@tulane.edu  
@@ -92,11 +113,19 @@ MIT License
 
 ## 📖 How to Cite
 
-If you use this repository, code, or derived outputs in academic publications, please cite:
+If you use this repository, code, application, or derived outputs in academic publications, please cite both the GitHub repository and the archived Zenodo dataset where appropriate.
+
+### GitHub Repository
 
 **Mukarram, M. M. T. (2026).**  
 *Flood Susceptibility Mapping in Iowa using GeoAI.*  
 GitHub Repository: https://github.com/Mirza9003/Flood-Hazard-Mapping-
+
+### Zenodo Dataset
+
+**Mukarram, M. M. T. (2026).**  
+*Prioritizing Agricultural Flood Mitigation: A GeoAI-Driven Assessment of Susceptibility, Crop Exposure, and Socioeconomic Vulnerability* [Dataset].  
+Zenodo. https://doi.org/10.5281/zenodo.19655650
 
 ### BibTeX
 
@@ -108,5 +137,3 @@ GitHub Repository: https://github.com/Mirza9003/Flood-Hazard-Mapping-
   url     = {https://github.com/Mirza9003/Flood-Hazard-Mapping-},
   note    = {Google Earth Engine application and machine learning workflows}
 }
-
-
