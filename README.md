@@ -1,4 +1,4 @@
-<h1 align="center">GeoAI-Based Agricultural Flood Risk Assessment for Iowa</h1>
+<h1 align="center">GeoAI-Based Agricultural & Scoioeconomic Flood Risk Assessment for Iowa</h1>
 
 <p align="center">
   <strong>Prioritizing Agricultural Flood Mitigation: A GeoAI-Driven Assessment of Susceptibility, Crop Exposure, and Socioeconomic Vulnerability</strong>
